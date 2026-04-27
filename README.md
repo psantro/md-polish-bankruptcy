@@ -23,7 +23,7 @@ The project leverages the [Polish Companies Bankruptcy Dataset](https://archive.
 
 ---
 
-### :chart_with_upwards_trend: Key Results
+## :chart_with_upwards_trend: Key Results
 
 The models achieve **strong and consistent predictive performance**, reaching **ROC-AUC values above 0.95 for the bankruptcy** (minority) class in the 5-year prediction horizon, evaluated using 10-fold cross-validation. These results indicate a **high level of robustness** in detecting long-term bankruptcy risk despite class imbalance and increasing temporal uncertainty.
 
