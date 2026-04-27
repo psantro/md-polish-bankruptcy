@@ -87,6 +87,6 @@ No additional libraries, extensions, or programming environments are required be
   5. Open the workflow and execute it using:
   6. `Execute All` (to run the full pipeline), or `Select` specific nodes if step-by-step execution is preferred
 
-Note: Each workflow is designed to automatically read datasets from a folder structure following the assignment format (e.g., 1year.arff, 2year.arff, etc.), so no manual preprocessing of the data files is required before execution.
+Note: Each workflow is designed to automatically read datasets from a folder structure following the assignment format (e.g., `1year.arff`, `2year.arff`, etc.), so no manual preprocessing of the data files is required before execution.
 
 ---
